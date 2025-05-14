@@ -13,7 +13,7 @@
             <mxPoint x="994.2800000000002" y="-470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFoeBZaVZDHERLog6sLn-8" value="发财" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=144;spacing=3;" vertex="1" parent="1">
+        <mxCell id="rFoeBZaVZDHERLog6sLn-8" value="发财" style="text;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=144;" vertex="1" parent="1">
           <mxGeometry x="429.14" y="-680" width="310" height="190" as="geometry" />
         </mxCell>
       </root>
