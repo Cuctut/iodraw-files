@@ -13,8 +13,8 @@
             <mxPoint x="994.2800000000002" y="-470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFoeBZaVZDHERLog6sLn-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="-572" width="50" height="30" as="geometry" />
+        <mxCell id="rFoeBZaVZDHERLog6sLn-8" value="发财" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=144;" vertex="1" parent="1">
+          <mxGeometry x="885" y="-652" width="310" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
