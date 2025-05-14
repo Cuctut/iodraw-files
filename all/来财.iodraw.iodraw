@@ -13,8 +13,8 @@
             <mxPoint x="994.2800000000002" y="-470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rFoeBZaVZDHERLog6sLn-8" value="&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;发 财&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=144;horizontal=1;" vertex="1" parent="1">
-          <mxGeometry x="389.14" y="-680" width="390" height="190" as="geometry" />
+        <mxCell id="rFoeBZaVZDHERLog6sLn-8" value="发 财" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=144;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="409.14" y="-680" width="350" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
